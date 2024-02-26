@@ -9,6 +9,7 @@ public class CollageApplication{
 	public Map<String,userData>ourmap;
 	public Map<userData,String>userobjmap;
 	public CollageApplication() {
+		//comment
 		ourmap=new HashMap<>();
 		userobjmap=new HashMap<>();
 	}
